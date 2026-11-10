@@ -1,0 +1,1 @@
+"""Math Tug application package."""
